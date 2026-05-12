@@ -106,6 +106,12 @@ To deploy this project to the internet so anyone can access it, you have a few o
 5.  *(Optional)* Set up an Nginx reverse proxy with SSL via Let's Encrypt to map the ports to a domain name.
 
 ---
+<img width="1918" height="1032" alt="Screenshot 2026-05-12 140216" src="https://github.com/user-attachments/assets/75d53b6e-5626-4f20-8e29-be6a4de5a265" />
+<img width="1918" height="1037" alt="Screenshot 2026-05-12 140230" src="https://github.com/user-attachments/assets/d2ff3252-40b3-4e89-9087-b217e0b96f8b" />
+<img width="1918" height="1031" alt="Screenshot 2026-05-12 140312" src="https://github.com/user-attachments/assets/7a428bfa-790c-4b86-9bf8-77021c3a9372" />
+<img width="1918" height="1027" alt="Screenshot 2026-05-12 140334" src="https://github.com/user-attachments/assets/c552fec5-9322-497f-85db-5351d4fecc7e" />
+<img width="1918" height="1005" alt="Screenshot 2026-05-12 140415" src="https://github.com/user-attachments/assets/2a8f10c1-27c5-498a-b209-90ffc5b1256f" />
+<img width="1918" height="1036" alt="Screenshot 2026-05-12 140454" src="https://github.com/user-attachments/assets/bd4bea2d-7fda-4ff0-81f9-98a4208a0108" />
 
 
 
