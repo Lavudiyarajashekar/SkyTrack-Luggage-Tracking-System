@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: tracking-config
+  namespace: luggage-tracking
+data:
+  POSTGRES_DB: "airline_system"
+  NEXT_PUBLIC_API_URL: "http://backend-service:8000"
