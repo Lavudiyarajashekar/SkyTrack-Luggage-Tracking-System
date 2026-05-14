@@ -18,9 +18,7 @@ SkyTrack is a full-stack, production-ready airline luggage tracking system. It p
 *   **One-Click Registration**: Process luggage intakes instantly without manually entering long ticket numbers.
 *   **Fast-Action Scan Console**: Instantly update luggage statuses (`SECURITY_SCAN`, `LOADED`, `TRANSFERRED`) with interactive buttons that dynamically lock out completed steps.
 *   **Live Monitor Feed**: Keep track of the entire airport's luggage throughput with real-time statistics and tables.
-
----
-
+*   
 ## 🛠️ Tech Stack
 
 ### Frontend (User Interface)
